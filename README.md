@@ -88,13 +88,13 @@ After optimizing the prototype, the circuit was transferred to a **two-layer PCB
 
 If these files exist in the repository, they illustrate the design:
 
-```markdown
+
 ![Schematic](Schematic.png)
 ![PCB 3D – Top](PCB.png)
 ![PCB 3D – Bottom](PCB2.png)
 ![Wire-wrap Prototype](physical_connected.png)
 ![Prototype with Supply Connected](physical_connected_withVCCandGND.png)
-```
+
 
 Make sure the filenames in the repo match these names or update the links accordingly.
 
